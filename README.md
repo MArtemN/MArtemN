@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/id143372476">
-    <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
-  </a>
   <a href="https://t.me/MArtemN">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
